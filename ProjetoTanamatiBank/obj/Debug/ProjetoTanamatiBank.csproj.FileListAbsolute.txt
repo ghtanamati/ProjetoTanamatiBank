@@ -1,0 +1,7 @@
+C:\Users\gustavo.tanamati\source\repos\ProjetoTanamatiBank\ProjetoTanamatiBank\bin\Debug\ProjetoTanamatiBank.exe.config
+C:\Users\gustavo.tanamati\source\repos\ProjetoTanamatiBank\ProjetoTanamatiBank\bin\Debug\ProjetoTanamatiBank.exe
+C:\Users\gustavo.tanamati\source\repos\ProjetoTanamatiBank\ProjetoTanamatiBank\bin\Debug\ProjetoTanamatiBank.pdb
+C:\Users\gustavo.tanamati\source\repos\ProjetoTanamatiBank\ProjetoTanamatiBank\obj\Debug\ProjetoTanamatiBank.csprojAssemblyReference.cache
+C:\Users\gustavo.tanamati\source\repos\ProjetoTanamatiBank\ProjetoTanamatiBank\obj\Debug\ProjetoTanamatiBank.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.tanamati\source\repos\ProjetoTanamatiBank\ProjetoTanamatiBank\obj\Debug\ProjetoTanamatiBank.exe
+C:\Users\gustavo.tanamati\source\repos\ProjetoTanamatiBank\ProjetoTanamatiBank\obj\Debug\ProjetoTanamatiBank.pdb
