@@ -68,8 +68,8 @@ namespace ProjetoTanamatiBank.Contas
 
         public ContaCorrente(int NumAgencia, string CCorrente)
         {
-            this.NumAgencia = NumAgencia; //"Obrigamos" o desenvolvedor/usuário a definir Agência
-            this.CCorrente = CCorrente; // e Conta Corrente na criação do objeto.
+            this.NumAgencia = NumAgencia;
+            this.CCorrente = CCorrente;
         }
     }
 }
